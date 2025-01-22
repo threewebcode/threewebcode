@@ -13,9 +13,9 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          COMMIT_BY_ME: true
-          COMMIT_USERNAME: threewebcode
+          COMMITTER_NAME: threewebcode
           COMMIT_EMAIL: phpjavaphp@gmail.com
+          COMMIT_MESSAGE: action update
           SHOW_LOC_CHART: false
           SHOW_UPDATED_DATE: false
           SHOW_LINES_OF_CODE: false
