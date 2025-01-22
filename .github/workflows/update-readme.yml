@@ -1,27 +1,22 @@
-name: Waka Readme
-
+name: Update README
 on:
+  push:
+    branches:
+      - main
   workflow_dispatch:
-  schedule:
-    - cron: '0 0 * * *'
-
 jobs:
-  update-readme:
-    name: WakaReadme DevMetrics
+  update_readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          COMMITTER_NAME: threewebcode
-          COMMIT_EMAIL: phpjavaphp@gmail.com
-          COMMIT_MESSAGE: action update
-          SHOW_LOC_CHART: false
-          SHOW_UPDATED_DATE: false
-          SHOW_LINES_OF_CODE: false
-          SHOW_TOTAL_CODE_TIME: false
-          SHOW_PROFILE_VIEWS: false
-          SHOW_PROJECTS: false
-          SHOW_TIMEZONE: false
-          SHOW_EDITORS: false
-          SHOW_SHORT_INFO: false
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      - name: Update README
+        run: |
+          echo "## Updated on $(date)" >> README.md
+          git config --local user.email "you@example.com"
+          git config --local user.name "Your Name"
+          git add README.md
+          git commit -m "Update README with current date"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
