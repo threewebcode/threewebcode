@@ -15,7 +15,7 @@
 - 💞️ I’m looking to collaborate on crypto and web3 projects.
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=FOCUS+ON+CRYPTO+AND+AI&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="ThreeWebCode">
+    <img src="https://readme-typing-svg.demolab.com/?lines=FOCUS+ON+CRYPTO+AND+AI&font=Fira%20Code&center=true&width=380&height=30&duration=4000&pause=1000&color=051015&weight=600&size=30" alt="ThreeWebCode">
 </p>
 Highly skilled and experienced Cloud Computing Engineer with a strong background in IAAS, PAAS, OpenStack, and Kubernetes, eager to take on a challenging role within the Crypto and Blockchain sphere. Extensive expertise is offered in areas such as Bitcoin, Ethereum network development, wallet implementation, and Solidity smart contract development. Great excitement exists at the prospect of contributing towards innovative projects within the domains of cryptocurrency, decentralised finance, and non-fungible tokens.
 
