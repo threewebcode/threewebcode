@@ -1,5 +1,5 @@
 **My Profile**
-[![ThreeWebCode](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435center=true&&lines=FOCUS+ON+CRYPTO+AND+AI)](https://git.io/typing-svg)
+
 ```
   _______   _                           __          __         _        _____               _        
  |__   __| | |                          \ \        / /        | |      / ____|             | |       
@@ -14,6 +14,7 @@
 - 👀 I’m interested in web3 stuff.
 - 💞️ I’m looking to collaborate on crypto and web3 projects.
 
+[![ThreeWebCode](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=FOCUS+ON+CRYPTO+AND+AI)](https://git.io/typing-svg)
 Highly skilled and experienced Cloud Computing Engineer with a strong background in IAAS, PAAS, OpenStack, and Kubernetes, eager to take on a challenging role within the Crypto and Blockchain sphere. Extensive expertise is offered in areas such as Bitcoin, Ethereum network development, wallet implementation, and Solidity smart contract development. Great excitement exists at the prospect of contributing towards innovative projects within the domains of cryptocurrency, decentralised finance, and non-fungible tokens.
 
 Skills:
