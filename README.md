@@ -1,5 +1,5 @@
 **My Profile**
-
+[![ThreeWebCode](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435center=true&&lines=FOCUS+ON+CRYPTO+AND+AI)](https://git.io/typing-svg)
 ```
   _______   _                           __          __         _        _____               _        
  |__   __| | |                          \ \        / /        | |      / ____|             | |       
@@ -9,7 +9,7 @@
     |_|    |_| |_| |_|     \___|  \___|     \/  \/      \___| |_.__/   \_____|  \___/   \__,_|  \___|
                                                                                                      
 ```
-[![ThreeWebCode](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=FOCUS+ON+CRYPTO+AND+AI)](https://git.io/typing-svg)
+
 - 👋 Hi, I’m @threewebcode
 - 👀 I’m interested in web3 stuff.
 - 💞️ I’m looking to collaborate on crypto and web3 projects.
