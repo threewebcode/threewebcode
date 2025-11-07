@@ -74,14 +74,12 @@ Technical Graph
         <code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code>
   <code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/2048px-Bitcoin.svg.png" alt="Bitcoin" title="Bitcoin"/></code>
  <code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Bitcoin_lightning_logo.svg/1024px-Bitcoin_lightning_logo.svg.png" alt="Lightning Network" title="Lightning Network"/></code>
-  <code><img width="50" src="https://miro.medium.com/v2/resize:fit:1200/0*MtBYi1QJlPB0hBJR.png" alt="RGB Protocol" title="RGB Protocol"/></code>
   <code><img width="50" src="https://www.shutterstock.com/image-vector/cryptography-icon-thin-linear-outline-600nw-2117361122.jpg" alt="Cryptography" title="Cryptography"/></code>
    <code><img width="50" src="https://docs.soliditylang.org/en/latest/_images/solidity_logo.svg" alt="Solidity" title="Solidity"/></code>
         <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
         <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
     <code><img width="50" src="https://static.vecteezy.com/system/resources/thumbnails/010/518/719/small/artificial-intelligence-ai-processor-chip-icon-symbol-for-graphic-design-logo-website-social-media-mobile-app-ui-illustration-vector.jpg" alt="Artificial Intelligence" title="Artificial Intelligence"/></code>
-    <code><img width="50" src="https://user-images.githubusercontent.com/99301796/223592277-34058d0e-af30-411d-8dfe-87c42dacdcf2.png" alt="Nostr" title="Nostr"/></code>
-
+    
 </div>
 
 ###### Updated on Fri Nov  7 02:03:07 UTC 2025
